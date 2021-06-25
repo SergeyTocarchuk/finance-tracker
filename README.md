@@ -1,11 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the finance tracker app from the Complete Ruby on Rails Developer course
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version: 2.7.1p83
+* Rails version: 6.1.4
 
 * System dependencies
 
@@ -21,4 +19,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Git Hub:
+git@github.com:SergeyTocarchuk/finance-tracker.git
