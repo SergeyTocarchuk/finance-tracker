@@ -24,3 +24,10 @@ git@github.com:SergeyTocarchuk/finance-tracker.git
 
 * Heroku:
 https://fin-tracker-s88.herokuapp.com
+
+* gems:
+  - font-awesome-rails:
+  https://github.com/bokmann/font-awesome-rails
+
+  - iex-ruby-client:
+  https://github.com/dblock/iex-ruby-client
